@@ -1,4 +1,4 @@
-## [The Car Doctor](https://the-car-doctor.web.app/)
+## [The Car Doctor](https://the-car-doctor-2eff5.web.app/)
 Welcome to the car doctor. This website is a car repair service website. This repository contains client site code.
 <br/>
 <br/>
@@ -20,4 +20,4 @@ Welcome to the car doctor. This website is a car repair service website. This re
 - Heroku
 
 
-You can see server side code in [The Car Doctor server](https://github.com/dvlprAlamin/the-car-doctor-server)
+You can see server side code in [The Car Doctor server](https://github.com/MohammadForkan/the-car-doctor-server)
